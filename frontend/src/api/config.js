@@ -1,0 +1,1 @@
+export const API_BASE_URL = 'http://47.122.144.2:8081/api'; 
